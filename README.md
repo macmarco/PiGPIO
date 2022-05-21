@@ -48,7 +48,7 @@ Load with:
 ```smalltalk
 Metacello new 
 	baseline: 'PiGPIO';
-	repository: 'github://robvanlopik/PiGPIO';
+	repository: 'github://macmarco/PiGPIO';
 	load .
  ```
 
